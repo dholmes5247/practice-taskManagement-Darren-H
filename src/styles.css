@@ -1,0 +1,30 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: gray;
+    padding: 20px;
+}
+
+h1, h2 {
+    color:rgb(0, 6, 4);
+}
+
+a :hover {
+    color:rgb(217, 231, 112);
+}
+
+
+.task-list {
+    background: rgb(247, 244, 244);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rbga(0, 0, 0, 0.2);
+}
+
+.task-detail {
+    background: rgb(222, 214, 214);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rbga(0, 0, 0, 0.2);
+}
+
+
